@@ -2,5 +2,9 @@
 
 class ResponseTimer{
 
+	public static function getMilliseconds()
+	{
+
+	}
 	
 }

@@ -1,2 +1,2 @@
-<?php
+<?php namespace Jtauri\ResponseTimer;
 
